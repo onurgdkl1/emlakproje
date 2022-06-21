@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "148836218895",
+    "project_id": "emlakproje-e4eb2",
+    "storage_bucket": "emlakproje-e4eb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148836218895:android:37df8c110107376941cb7a",
+        "android_client_info": {
+          "package_name": "com.example.emlakcim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148836218895-5slv5ue8kvvpbmk0a13viu9a4sc7jioa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfa0ByFVDyLWCV1msjgedsPeqnBVv8w-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148836218895-5slv5ue8kvvpbmk0a13viu9a4sc7jioa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
